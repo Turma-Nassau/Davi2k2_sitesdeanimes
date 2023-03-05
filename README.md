@@ -1,5 +1,4 @@
-# davimilones_sitesdeanimes
-ter um site onde seja possivel receber noticias dos seus animes favoritos 
+
 <h1 align="center">:file_cabinet: Notícias de Animes</h1>
 
 ## :memo: Descrição
