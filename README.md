@@ -23,7 +23,7 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para re
     <td align="center">
       <a href="https://github.com/Davi2k2">
         <sub>
-          <b>GaldiLuna</b>
+          <b>Davi Milones</b>
         </sub>
       </a>
     </td>
