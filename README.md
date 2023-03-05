@@ -1,6 +1,6 @@
 # davimilones_sitesdeanimes
 ter um site onde seja possivel receber noticias dos seus animes favoritos 
-<h1 align="center">:file_cabinet: Fábrica de Aplicativos</h1>
+<h1 align="center">:file_cabinet: Notícias de Animes</h1>
 
 ## :memo: Descrição
 Projeto criado para a matéria de Códigos de Alta Performance Web. Site para receber notícias de seus animes favoritos.
