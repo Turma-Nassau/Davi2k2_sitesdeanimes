@@ -5,10 +5,10 @@ Projeto criado para a matéria de Códigos de Alta Performance Web.Site para rec
 #  📚 Funcionalidades
 Funcionalidades: Neste site, o usuário irá fazer o seu cadastro e poderá marcar quais animes a pessoa quer receber sites
 #   🔧 Tecnologias utilizadas
-HTML /n
-CSS  /n
-Javascript /n
-Node.JS /n
+HTML
+CSS  
+Javascript 
+Node.JS 
 #  Implementação futura
 Talvez sofra mudanças no projeto
 # Status do projeto
