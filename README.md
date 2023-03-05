@@ -1,15 +1,34 @@
 # davimilones_sitesdeanimes
 ter um site onde seja possivel receber noticias dos seus animes favoritos 
-#  📝 Descrição
-Projeto criado para a matéria de Códigos de Alta Performance Web.Site para receber notícias de seus animes favoritos
-#  📚 Funcionalidades
-Funcionalidades: Neste site, o usuário irá fazer o seu cadastro e poderá marcar quais animes a pessoa quer receber sites
-#   🔧 Tecnologias utilizadas
-HTML
-CSS  
-Javascript 
-Node.JS 
-#  Implementação futura
-Talvez sofra mudanças no projeto
-# Status do projeto
-passos de tartaruga
+<h1 align="center">:file_cabinet: Fábrica de Aplicativos</h1>
+
+## :memo: Descrição
+Projeto criado para a matéria de Códigos de Alta Performance Web. Site para receber notícias de seus animes favoritos.
+
+## :books: Funcionalidades
+* <b>Funcionalidades </b>: Neste site, o usuário irá fazer o seu cadastro e poderá marcar quais animes quer receber notícias 
+
+## :wrench: Tecnologias utilizadas
+* HTML
+* CSS
+* Javascript
+* Node.JS
+
+## :soon: Implementação futura
+* Talvez sofra mudanças no projeto
+
+## :handshake: Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Davi2k2">
+        <sub>
+          <b>GaldiLuna</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## :dart: Status do projeto
+* passos de tartaruga.
