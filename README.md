@@ -31,3 +31,5 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para re
 
 ## :dart: Status do projeto
 * passos de tartaruga.
+
+<a href="https://www.figma.com/file/6sX2aLGxJNYA3EfzdG5yNW/Untitled?t=gaUw0VoX46hEqm08-6">figma</a>
