@@ -34,7 +34,7 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para re
 
 ## Estrutura de dados
 
-user{
+user{</br>
   user_id: 0001 </br>
   user_name: "nome do usuario"</br>
   user_email: "email do usuario"</br> 
