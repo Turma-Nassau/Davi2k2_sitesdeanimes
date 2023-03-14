@@ -32,4 +32,13 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para re
 ## :dart: Status do projeto
 * passos de tartaruga.
 
+## Estrutura de dados
+
+user{
+  user_id: 0001
+  user_name: "nome do usuario"
+  user_email: "email do usuario"
+  user_password: "senha do usuario"
+  }
+
 <a href="https://www.figma.com/file/6sX2aLGxJNYA3EfzdG5yNW/Untitled?t=gaUw0VoX46hEqm08-6">figma</a>
